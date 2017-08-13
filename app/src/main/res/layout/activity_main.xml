@@ -9,7 +9,10 @@
     tools:context="com.example.administrator.myapplication.MainActivity">
 
 
-
+    <TextView
+        android:id="@+id/chenrui"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
 
 
 
